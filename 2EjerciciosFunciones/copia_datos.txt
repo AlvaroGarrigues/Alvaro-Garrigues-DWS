@@ -1,0 +1,4 @@
+nombre: alvaro
+direccion: linares 3
+telefono: 691
+alv@gmail.com
